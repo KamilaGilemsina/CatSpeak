@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatSpeak", "CatSpeak.csproj", "{F579B12F-064F-48EB-8F71-5702D5AA1E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F579B12F-064F-48EB-8F71-5702D5AA1E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F579B12F-064F-48EB-8F71-5702D5AA1E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F579B12F-064F-48EB-8F71-5702D5AA1E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F579B12F-064F-48EB-8F71-5702D5AA1E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77502EAF-1B87-42B0-9595-1A2BD41BD1B8}
+	EndGlobalSection
+EndGlobal
